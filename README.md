@@ -243,6 +243,13 @@ To get started, fork the repo, make your changes, add, commit and push the code,
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/hostinger">
+            <img src="https://avatars.githubusercontent.com/u/2630767?v=4" width="80;" alt="hostinger"/>
+            <br />
+            <sub><b>Hostinger International</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/bile0026">
             <img src="https://avatars.githubusercontent.com/u/5022496?u=aec96ad173c0ea9baaba93807efa8a848af6595c&v=4" width="80;" alt="bile0026"/>
             <br />
@@ -269,15 +276,15 @@ To get started, fork the repo, make your changes, add, commit and push the code,
             <br />
             <sub><b>InDieTasten</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/araguaci">
             <img src="https://avatars.githubusercontent.com/u/7318668?v=4" width="80;" alt="araguaci"/>
             <br />
             <sub><b>Araguaci</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/elvito">
             <img src="https://avatars.githubusercontent.com/u/9715912?v=4" width="80;" alt="elvito"/>
@@ -312,15 +319,15 @@ To get started, fork the repo, make your changes, add, commit and push the code,
             <br />
             <sub><b>Umbrel</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/ssdnodes">
             <img src="https://avatars.githubusercontent.com/u/66710902?v=4" width="80;" alt="ssdnodes"/>
             <br />
             <sub><b>SSD Nodes</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/frankdez93">
             <img src="https://avatars.githubusercontent.com/u/87549420?v=4" width="80;" alt="frankdez93"/>
@@ -343,13 +350,6 @@ To get started, fork the repo, make your changes, add, commit and push the code,
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/MichaelPerron">
-            <img src="https://avatars.githubusercontent.com/u/130603904?u=7c00e3e333b538bc86168cbfa72e997f818967b8&v=4" width="80;" alt="MichaelPerron"/>
-            <br />
-            <sub><b>Michael Perron</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/hudsonrock-partnerships">
             <img src="https://avatars.githubusercontent.com/u/163282900?u=5f2667f7fe5d284ac7a2da6b0800ea8970b0fcbf&v=4" width="80;" alt="hudsonrock-partnerships"/>
             <br />
@@ -357,20 +357,13 @@ To get started, fork the repo, make your changes, add, commit and push the code,
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/crmzx8">
-            <img src="https://avatars.githubusercontent.com/u/170860426?u=43694046c9b5a99a3014369b22cc48815b07b457&v=4" width="80;" alt="crmzx8"/>
-            <br />
-            <sub><b>CRMX8</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
         <a href="https://github.com/hesreallyhim">
             <img src="https://avatars.githubusercontent.com/u/172150522?u=e288991976c46b53437a5880e90be140634a8477&v=4" width="80;" alt="hesreallyhim"/>
             <br />
             <sub><b>Really Him</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/gl0bal01">
             <img src="https://avatars.githubusercontent.com/u/173822055?u=8911ba88503c8b1d134dc0058e9e0bec5f23b8d9&v=4" width="80;" alt="gl0bal01"/>
