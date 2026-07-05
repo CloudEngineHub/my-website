@@ -355,6 +355,13 @@ To get started, fork the repo, make your changes, add, commit and push the code,
             <br />
             <sub><b>Envisage Cloud Solutions</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/cadiaz2004">
+            <img src="https://avatars.githubusercontent.com/u/251514146?v=4" width="80;" alt="cadiaz2004"/>
+            <br />
+            <sub><b>cadiaz2004</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: sponsors -end -->
