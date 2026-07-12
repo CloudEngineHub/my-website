@@ -360,7 +360,7 @@ To get started, fork the repo, make your changes, add, commit and push the code,
         <a href="https://github.com/cadiaz2004">
             <img src="https://avatars.githubusercontent.com/u/251514146?v=4" width="80;" alt="cadiaz2004"/>
             <br />
-            <sub><b>cadiaz2004</b></sub>
+            <sub><b>Cadiaz2004</b></sub>
         </a>
     </td></tr>
 </table>
