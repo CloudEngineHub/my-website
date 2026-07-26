@@ -236,6 +236,13 @@ To get started, fork the repo, make your changes, add, commit and push the code,
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/askans">
+            <img src="https://avatars.githubusercontent.com/u/4079944?v=4" width="80;" alt="askans"/>
+            <br />
+            <sub><b>Askan</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/bile0026">
             <img src="https://avatars.githubusercontent.com/u/5022496?u=aec96ad173c0ea9baaba93807efa8a848af6595c&v=4" width="80;" alt="bile0026"/>
             <br />
@@ -267,17 +274,17 @@ To get started, fork the repo, make your changes, add, commit and push the code,
         <a href="https://github.com/elvito">
             <img src="https://avatars.githubusercontent.com/u/9715912?v=4" width="80;" alt="elvito"/>
             <br />
-            <sub><b>elvito</b></sub>
+            <sub><b>Elvito</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/vlad-tim">
             <img src="https://avatars.githubusercontent.com/u/11474041?u=eee43705b54d2ec9f51fc4fcce5ad18dd17c87e4&v=4" width="80;" alt="vlad-tim"/>
             <br />
             <sub><b>Vlad</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/helixzz">
             <img src="https://avatars.githubusercontent.com/u/12218889?u=d06d0c103dfbdb99450623064f7da3c5a3675fb6&v=4" width="80;" alt="helixzz"/>
@@ -312,15 +319,15 @@ To get started, fork the repo, make your changes, add, commit and push the code,
             <br />
             <sub><b>Frankdez93</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/blitzdakka">
             <img src="https://avatars.githubusercontent.com/u/90234611?v=4" width="80;" alt="blitzdakka"/>
             <br />
-            <sub><b>blitzdakka</b></sub>
+            <sub><b>Blitzdakka</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/BigoudOps">
             <img src="https://avatars.githubusercontent.com/u/101472804?u=5e4948110e48320024f212edf5ae2332b63fc391&v=4" width="80;" alt="BigoudOps"/>
@@ -337,7 +344,7 @@ To get started, fork the repo, make your changes, add, commit and push the code,
     </td>
     <td align="center">
         <a href="https://github.com/Br0kenSilos">
-            <img src="https://avatars.githubusercontent.com/u/137440866?v=4" width="80;" alt="Br0kenSilos"/>
+            <img src="https://avatars.githubusercontent.com/u/137440866?u=fd1230c976c98dd554386a01326707d7706a241a&v=4" width="80;" alt="Br0kenSilos"/>
             <br />
             <sub><b>Br0kenSilos</b></sub>
         </a>
@@ -349,6 +356,14 @@ To get started, fork the repo, make your changes, add, commit and push the code,
             <sub><b>Hudsonrock-partnerships</b></sub>
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/LambdaTest-Inc">
+            <img src="https://avatars.githubusercontent.com/u/171592363?v=4" width="80;" alt="LambdaTest-Inc"/>
+            <br />
+            <sub><b>TestMu AI Open Source Office (Formerly LambdaTest)</b></sub>
+        </a>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/hesreallyhim">
             <img src="https://avatars.githubusercontent.com/u/172150522?u=e288991976c46b53437a5880e90be140634a8477&v=4" width="80;" alt="hesreallyhim"/>
@@ -362,8 +377,7 @@ To get started, fork the repo, make your changes, add, commit and push the code,
             <br />
             <sub><b>Gl0bal01 💖 龴ↀ◡ↀ龴</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Envisage-Cloud-Solutions">
             <img src="https://avatars.githubusercontent.com/u/219464178?v=4" width="80;" alt="Envisage-Cloud-Solutions"/>
