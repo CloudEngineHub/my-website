@@ -237,7 +237,7 @@ To get started, fork the repo, make your changes, add, commit and push the code,
 <tr>
     <td align="center">
         <a href="https://github.com/askans">
-            <img src="https://avatars.githubusercontent.com/u/4079944?v=4" width="80;" alt="askans"/>
+            <img src="https://avatars.githubusercontent.com/u/4079944?u=ffca2521b5aaf607fc946e6ca9a17f531ced4421&v=4" width="80;" alt="askans"/>
             <br />
             <sub><b>Askan</b></sub>
         </a>
@@ -336,6 +336,13 @@ To get started, fork the repo, make your changes, add, commit and push the code,
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/MorganKryze">
+            <img src="https://avatars.githubusercontent.com/u/103436411?v=4" width="80;" alt="MorganKryze"/>
+            <br />
+            <sub><b>Yann M. Vidamment</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/terminaltrove">
             <img src="https://avatars.githubusercontent.com/u/121595180?v=4" width="80;" alt="terminaltrove"/>
             <br />
@@ -355,15 +362,15 @@ To get started, fork the repo, make your changes, add, commit and push the code,
             <br />
             <sub><b>Hudsonrock-partnerships</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/LambdaTest-Inc">
-            <img src="https://avatars.githubusercontent.com/u/171592363?v=4" width="80;" alt="LambdaTest-Inc"/>
+            <img src="https://avatars.githubusercontent.com/u/171592363?u=080d9ba6069d0ff2a0558825ff2f667c45807687&v=4" width="80;" alt="LambdaTest-Inc"/>
             <br />
             <sub><b>TestMu AI Open Source Office (Formerly LambdaTest)</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/hesreallyhim">
             <img src="https://avatars.githubusercontent.com/u/172150522?u=e288991976c46b53437a5880e90be140634a8477&v=4" width="80;" alt="hesreallyhim"/>
@@ -383,13 +390,6 @@ To get started, fork the repo, make your changes, add, commit and push the code,
             <img src="https://avatars.githubusercontent.com/u/219464178?v=4" width="80;" alt="Envisage-Cloud-Solutions"/>
             <br />
             <sub><b>Envisage Cloud Solutions</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/cadiaz2004">
-            <img src="https://avatars.githubusercontent.com/u/251514146?v=4" width="80;" alt="cadiaz2004"/>
-            <br />
-            <sub><b>Cadiaz2004</b></sub>
         </a>
     </td></tr>
 </table>
