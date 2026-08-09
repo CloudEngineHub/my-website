@@ -236,6 +236,13 @@ To get started, fork the repo, make your changes, add, commit and push the code,
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/nubela">
+            <img src="https://avatars.githubusercontent.com/u/146607?v=4" width="80;" alt="nubela"/>
+            <br />
+            <sub><b>Nubela</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/askans">
             <img src="https://avatars.githubusercontent.com/u/4079944?u=ffca2521b5aaf607fc946e6ca9a17f531ced4421&v=4" width="80;" alt="askans"/>
             <br />
@@ -269,15 +276,15 @@ To get started, fork the repo, make your changes, add, commit and push the code,
             <br />
             <sub><b>Araguaci</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/elvito">
             <img src="https://avatars.githubusercontent.com/u/9715912?v=4" width="80;" alt="elvito"/>
             <br />
             <sub><b>Elvito</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/vlad-tim">
             <img src="https://avatars.githubusercontent.com/u/11474041?u=eee43705b54d2ec9f51fc4fcce5ad18dd17c87e4&v=4" width="80;" alt="vlad-tim"/>
@@ -312,15 +319,15 @@ To get started, fork the repo, make your changes, add, commit and push the code,
             <br />
             <sub><b>SSD Nodes</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/frankdez93">
             <img src="https://avatars.githubusercontent.com/u/87549420?v=4" width="80;" alt="frankdez93"/>
             <br />
             <sub><b>Frankdez93</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/blitzdakka">
             <img src="https://avatars.githubusercontent.com/u/90234611?v=4" width="80;" alt="blitzdakka"/>
@@ -337,7 +344,7 @@ To get started, fork the repo, make your changes, add, commit and push the code,
     </td>
     <td align="center">
         <a href="https://github.com/MorganKryze">
-            <img src="https://avatars.githubusercontent.com/u/103436411?v=4" width="80;" alt="MorganKryze"/>
+            <img src="https://avatars.githubusercontent.com/u/103436411?u=229e2d87d90cbf57ba1b5ab8af0b9392021949bc&v=4" width="80;" alt="MorganKryze"/>
             <br />
             <sub><b>Yann M. Vidamment</b></sub>
         </a>
@@ -349,6 +356,14 @@ To get started, fork the repo, make your changes, add, commit and push the code,
             <sub><b>Terminal Trove</b></sub>
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/Zenxlk">
+            <img src="https://avatars.githubusercontent.com/u/126708882?v=4" width="80;" alt="Zenxlk"/>
+            <br />
+            <sub><b>Jair Mendez</b></sub>
+        </a>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Br0kenSilos">
             <img src="https://avatars.githubusercontent.com/u/137440866?u=fd1230c976c98dd554386a01326707d7706a241a&v=4" width="80;" alt="Br0kenSilos"/>
@@ -362,8 +377,7 @@ To get started, fork the repo, make your changes, add, commit and push the code,
             <br />
             <sub><b>Hudsonrock-partnerships</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/LambdaTest-Inc">
             <img src="https://avatars.githubusercontent.com/u/171592363?u=080d9ba6069d0ff2a0558825ff2f667c45807687&v=4" width="80;" alt="LambdaTest-Inc"/>
