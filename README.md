@@ -237,7 +237,7 @@ To get started, fork the repo, make your changes, add, commit and push the code,
 <tr>
     <td align="center">
         <a href="https://github.com/nubela">
-            <img src="https://avatars.githubusercontent.com/u/146607?v=4" width="80;" alt="nubela"/>
+            <img src="https://avatars.githubusercontent.com/u/146607?u=da66c0791772716abfaff404b75e73e3c3df443f&v=4" width="80;" alt="nubela"/>
             <br />
             <sub><b>Nubela</b></sub>
         </a>
@@ -279,13 +279,6 @@ To get started, fork the repo, make your changes, add, commit and push the code,
     </td></tr>
 <tr>
     <td align="center">
-        <a href="https://github.com/elvito">
-            <img src="https://avatars.githubusercontent.com/u/9715912?v=4" width="80;" alt="elvito"/>
-            <br />
-            <sub><b>Elvito</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/vlad-tim">
             <img src="https://avatars.githubusercontent.com/u/11474041?u=eee43705b54d2ec9f51fc4fcce5ad18dd17c87e4&v=4" width="80;" alt="vlad-tim"/>
             <br />
@@ -319,22 +312,15 @@ To get started, fork the repo, make your changes, add, commit and push the code,
             <br />
             <sub><b>SSD Nodes</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/frankdez93">
             <img src="https://avatars.githubusercontent.com/u/87549420?v=4" width="80;" alt="frankdez93"/>
             <br />
             <sub><b>Frankdez93</b></sub>
         </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/blitzdakka">
-            <img src="https://avatars.githubusercontent.com/u/90234611?v=4" width="80;" alt="blitzdakka"/>
-            <br />
-            <sub><b>Blitzdakka</b></sub>
-        </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/BigoudOps">
             <img src="https://avatars.githubusercontent.com/u/101472804?u=5e4948110e48320024f212edf5ae2332b63fc391&v=4" width="80;" alt="BigoudOps"/>
@@ -358,17 +344,9 @@ To get started, fork the repo, make your changes, add, commit and push the code,
     </td>
     <td align="center">
         <a href="https://github.com/Zenxlk">
-            <img src="https://avatars.githubusercontent.com/u/126708882?v=4" width="80;" alt="Zenxlk"/>
+            <img src="https://avatars.githubusercontent.com/u/126708882?u=c65e1a3d7f29bd2dfd25b81fdc6db21ee3088d33&v=4" width="80;" alt="Zenxlk"/>
             <br />
             <sub><b>Jair Mendez</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/Br0kenSilos">
-            <img src="https://avatars.githubusercontent.com/u/137440866?u=fd1230c976c98dd554386a01326707d7706a241a&v=4" width="80;" alt="Br0kenSilos"/>
-            <br />
-            <sub><b>Br0kenSilos</b></sub>
         </a>
     </td>
     <td align="center">
@@ -384,7 +362,8 @@ To get started, fork the repo, make your changes, add, commit and push the code,
             <br />
             <sub><b>TestMu AI Open Source Office (Formerly LambdaTest)</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/hesreallyhim">
             <img src="https://avatars.githubusercontent.com/u/172150522?u=e288991976c46b53437a5880e90be140634a8477&v=4" width="80;" alt="hesreallyhim"/>
