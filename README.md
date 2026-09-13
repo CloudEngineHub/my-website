@@ -314,20 +314,13 @@ To get started, fork the repo, make your changes, add, commit and push the code,
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/terminaltrove">
-            <img src="https://avatars.githubusercontent.com/u/121595180?v=4" width="80;" alt="terminaltrove"/>
-            <br />
-            <sub><b>Terminal Trove</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
         <a href="https://github.com/hudsonrock-partnerships">
             <img src="https://avatars.githubusercontent.com/u/163282900?u=5f2667f7fe5d284ac7a2da6b0800ea8970b0fcbf&v=4" width="80;" alt="hudsonrock-partnerships"/>
             <br />
             <sub><b>Hudsonrock-partnerships</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/LambdaTest-Inc">
             <img src="https://avatars.githubusercontent.com/u/171592363?u=080d9ba6069d0ff2a0558825ff2f667c45807687&v=4" width="80;" alt="LambdaTest-Inc"/>
@@ -351,7 +344,7 @@ To get started, fork the repo, make your changes, add, commit and push the code,
     </td>
     <td align="center">
         <a href="https://github.com/sbhog">
-            <img src="https://avatars.githubusercontent.com/u/199082015?v=4" width="80;" alt="sbhog"/>
+            <img src="https://avatars.githubusercontent.com/u/199082015?u=9f6251f98272ffc92d43889836a73c476afcb1fe&v=4" width="80;" alt="sbhog"/>
             <br />
             <sub><b>Axel Hoga</b></sub>
         </a>
