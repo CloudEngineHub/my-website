@@ -286,13 +286,6 @@ To get started, fork the repo, make your changes, add, commit and push the code,
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/ssdnodes">
-            <img src="https://avatars.githubusercontent.com/u/66710902?v=4" width="80;" alt="ssdnodes"/>
-            <br />
-            <sub><b>SSD Nodes</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/frankdez93">
             <img src="https://avatars.githubusercontent.com/u/87549420?v=4" width="80;" alt="frankdez93"/>
             <br />
@@ -319,15 +312,15 @@ To get started, fork the repo, make your changes, add, commit and push the code,
             <br />
             <sub><b>Hudsonrock-partnerships</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/LambdaTest-Inc">
             <img src="https://avatars.githubusercontent.com/u/171592363?u=080d9ba6069d0ff2a0558825ff2f667c45807687&v=4" width="80;" alt="LambdaTest-Inc"/>
             <br />
             <sub><b>TestMu AI Open Source Office (Formerly LambdaTest)</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/hesreallyhim">
             <img src="https://avatars.githubusercontent.com/u/172150522?u=e288991976c46b53437a5880e90be140634a8477&v=4" width="80;" alt="hesreallyhim"/>
@@ -337,7 +330,7 @@ To get started, fork the repo, make your changes, add, commit and push the code,
     </td>
     <td align="center">
         <a href="https://github.com/gl0bal01">
-            <img src="https://avatars.githubusercontent.com/u/173822055?u=e418964bb478d5780a4044f95207bca19adf709f&v=4" width="80;" alt="gl0bal01"/>
+            <img src="https://avatars.githubusercontent.com/u/173822055?u=f7a1d27bb039771822b792f65832d24e87e2b122&v=4" width="80;" alt="gl0bal01"/>
             <br />
             <sub><b>Gl0bal01 💖 龴ↀ◡ↀ龴</b></sub>
         </a>
