@@ -258,7 +258,7 @@ To get started, fork the repo, make your changes, add, commit and push the code,
     </td>
     <td align="center">
         <a href="https://github.com/araguaci">
-            <img src="https://avatars.githubusercontent.com/u/7318668?v=4" width="80;" alt="araguaci"/>
+            <img src="https://avatars.githubusercontent.com/u/7318668?u=36c35d4b8a691fd6e44d2305e44dbfe5509a3905&v=4" width="80;" alt="araguaci"/>
             <br />
             <sub><b>Araguaci</b></sub>
         </a>
@@ -308,7 +308,7 @@ To get started, fork the repo, make your changes, add, commit and push the code,
     </td>
     <td align="center">
         <a href="https://github.com/francisco-vilaca">
-            <img src="https://avatars.githubusercontent.com/u/144910601?v=4" width="80;" alt="francisco-vilaca"/>
+            <img src="https://avatars.githubusercontent.com/u/144910601?u=7de4217d1e126b5e04bf9b659952dac90cb26102&v=4" width="80;" alt="francisco-vilaca"/>
             <br />
             <sub><b>Francisco Vilaca</b></sub>
         </a>
@@ -337,7 +337,7 @@ To get started, fork the repo, make your changes, add, commit and push the code,
     </td>
     <td align="center">
         <a href="https://github.com/gl0bal01">
-            <img src="https://avatars.githubusercontent.com/u/173822055?u=f7a1d27bb039771822b792f65832d24e87e2b122&v=4" width="80;" alt="gl0bal01"/>
+            <img src="https://avatars.githubusercontent.com/u/173822055?u=4b725f4bf0f87581f559cd8b2d8f6260e801d34b&v=4" width="80;" alt="gl0bal01"/>
             <br />
             <sub><b>Gl0bal01 💖 龴ↀ◡ↀ龴</b></sub>
         </a>
