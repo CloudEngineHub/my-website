@@ -279,10 +279,24 @@ To get started, fork the repo, make your changes, add, commit and push the code,
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/Raptorz90">
+            <img src="https://avatars.githubusercontent.com/u/56280602?v=4" width="80;" alt="Raptorz90"/>
+            <br />
+            <sub><b>Raptorz90</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/getumbrel">
             <img src="https://avatars.githubusercontent.com/u/59408891?v=4" width="80;" alt="getumbrel"/>
             <br />
             <sub><b>Umbrel</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/wtostajr">
+            <img src="https://avatars.githubusercontent.com/u/71575921?v=4" width="80;" alt="wtostajr"/>
+            <br />
+            <sub><b>Walter Tosta</b></sub>
         </a>
     </td>
     <td align="center">
@@ -305,7 +319,8 @@ To get started, fork the repo, make your changes, add, commit and push the code,
             <br />
             <sub><b>Yann M. Vidamment</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/francisco-vilaca">
             <img src="https://avatars.githubusercontent.com/u/144910601?u=7de4217d1e126b5e04bf9b659952dac90cb26102&v=4" width="80;" alt="francisco-vilaca"/>
@@ -319,8 +334,7 @@ To get started, fork the repo, make your changes, add, commit and push the code,
             <br />
             <sub><b>Hudsonrock-partnerships</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/LambdaTest-Inc">
             <img src="https://avatars.githubusercontent.com/u/171592363?u=080d9ba6069d0ff2a0558825ff2f667c45807687&v=4" width="80;" alt="LambdaTest-Inc"/>
@@ -348,7 +362,8 @@ To get started, fork the repo, make your changes, add, commit and push the code,
             <br />
             <sub><b>Axel Hoga</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Envisage-Cloud-Solutions">
             <img src="https://avatars.githubusercontent.com/u/219464178?v=4" width="80;" alt="Envisage-Cloud-Solutions"/>
